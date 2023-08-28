@@ -26,6 +26,6 @@ public class MethodCreation01 {
     //Eger bir method yeni bir data üretmiyor ise return type i void olur
     //methodun return type i void ise method body icinde return keyword yazilmaz
     //Note : Method olusturmada kullanilan variable lar parametreler "parameters" olarak adlandirilir
-    //      Method call da kullanilan degerlere Argumanlar "Arguments" denir.
+    //      Method call da kullanilan degerlere Argument "Arguments" denir.
 
 }//class kapanis parantezi
